@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="airlineMockStatic.AirlineStaticTestMock" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-10-04T20:01:37" hostname="VAL3PC" time="0.089">
+  <properties/>
+  <testcase name="verifyItIsNotAvailable()" classname="airlineMockStatic.AirlineStaticTestMock" time="0.089"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
