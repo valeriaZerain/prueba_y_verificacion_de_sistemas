@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="airlineTest.AirlineTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-10-03T20:30:45" hostname="VAL3PC" time="0.036">
-  <properties/>
-  <testcase name="testReservaVuelo_NoSuficientesPasajes()" classname="airlineTest.AirlineTest" time="0.034"/>
-  <testcase name="testReservaVuelo_SuficientesPasajes()" classname="airlineTest.AirlineTest" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
